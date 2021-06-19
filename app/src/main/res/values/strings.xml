@@ -1,5 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Video Player</string>
     <string name="play">Play</string>
     <string name="pause">Pause</string>
+    <string name="popup">Thank you for watching this video!\n by Thiago Paiva</string>
 </resources>
